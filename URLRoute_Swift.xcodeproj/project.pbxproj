@@ -448,7 +448,7 @@
 		8F1235581EA748820018A2F1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "";
 				DEVELOPMENT_TEAM = 2G4AT7N2J9;
 				INFOPLIST_FILE = URLRoute_Swift/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -461,7 +461,7 @@
 		8F1235591EA748820018A2F1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "";
 				DEVELOPMENT_TEAM = 2G4AT7N2J9;
 				INFOPLIST_FILE = URLRoute_Swift/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
